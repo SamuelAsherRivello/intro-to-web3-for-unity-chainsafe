@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36cf3b74950b299408cc642cd2423789, type: 3}
+  m_Name: ReadMe
+  m_EditorClassIdentifier: 
+  Title: My Project
+  Icon: {fileID: 2800000, guid: 7c0822b0780ca4a74b276e50db2c68a3, type: 3}
+  Sections:
+  - TextHeading: Welcome
+    TextSubheading: 
+    TextBody: This is my project. Created from the Unity Project Template
+    LinkName: Github.com/SamuelAsherRivello/unity-project-template
+    LinkUrl: https://github.com/SamuelAsherRivello/unity-project-template
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: Getting Started
+    TextSubheading: 
+    TextBody: Ex. You can open a webpage
+    LinkName: Google.com
+    LinkUrl: http://www.google.com
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: Ex. You can open a menu item
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: Window/Package Manager
+    MenuItemPath: Window/Package Manager
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: Ex. You can ping a file or folder
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: Assets/Documentation/ReadMe/
+    PingObjectGuid: 5a22eb9ce84e5194ca5658315e96758d
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: Customize ReadMe
+    TextSubheading: 
+    TextBody: Update this window to describe your next project. \nOpen this Unity
+      Inspector Window as 'Debug' to edit.
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  HasLoadedLayout: 0

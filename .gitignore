@@ -75,3 +75,94 @@ crashlytics-build.properties
 *.vsconfig
 Unity/.idea/.idea.Unity/.idea/projectSettingsUpdater.xml
 /Unity/CodeCoverage
+Unity/Assets/Samples.meta
+Unity/Assets/Samples/web3.unity SDK.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Data.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Data/WalletConnectConfig.asset
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Data/WalletConnectConfig.asset.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/Gelato.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/Gelato/GelatoExamples.prefab
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/Gelato/GelatoExamples.prefab.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/UI.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/UI/Button.prefab
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/UI/Button.prefab.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/UI/Sample Feedback FX.prefab
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/UI/Sample Feedback FX.prefab.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/UI/SampleContainer.prefab
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/UI/SampleContainer.prefab.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/UI/TextureDisplay.prefab
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Prefabs/UI/TextureDisplay.prefab.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain.unity
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain.unity.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_loading_loop.anim
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_loading_loop.anim.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_off.anim
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_off.anim.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_on.anim
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_on.anim.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_turnOff.anim
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_turnOff.anim.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_turnOn.anim
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/feedback_turnOn.anim.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/FeedbackAnimatorController.controller
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/FeedbackAnimatorController.controller.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/null-texture.png
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scenes/SampleMain/null-texture.png.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Samples.asmdef
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Samples.asmdef.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/AccountLabel.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/AccountLabel.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Erc1155.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Erc1155/Erc1155Sample.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Erc1155/Erc1155Sample.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Erc20.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Erc20/Erc20Sample.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Erc20/Erc20Sample.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Erc721.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Erc721/Erc721Sample.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Erc721/Erc721Sample.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/EVM.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/EVM/EvmSample.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/EVM/EvmSample.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Gelato.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Gelato/GelatoSample.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/Gelato/GelatoSample.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/GeneratedContracts.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/GeneratedContracts/Erc1155Contract.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/GeneratedContracts/Erc1155Contract.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/GeneratedContracts/Erc20Contract.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/GeneratedContracts/Erc20Contract.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/GeneratedContracts/Erc721Contract.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/GeneratedContracts/Erc721Contract.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/GeneratedContracts/Erc721Contract_Partial.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/GeneratedContracts/Erc721Contract_Partial.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/IPFS.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/IPFS/IpfsSample.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/IPFS/IpfsSample.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SampleBehaviour.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SampleBehaviour.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SampleFeedback.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SampleFeedback.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SelectAssetInEditor.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SelectAssetInEditor.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SwitchChain.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SwitchChain/EchoChainContract.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SwitchChain/EchoChainContract.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SwitchChain/SwitchChainSample.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Scenes/SampleMain/SwitchChain/SwitchChainSample.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Utilities.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Utilities/DisableGameObjectIfServiceNotActive.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Utilities/DisableGameObjectIfServiceNotActive.cs.meta
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Utilities/HexBigIntUtil.cs
+Unity/Assets/Samples/web3.unity SDK/3.0.0/Web3.Unity Samples/Scripts/Utilities/HexBigIntUtil.cs.meta
+Unity/Assets/Scripts/Runtime/RMC/\[MyProject\]/Scenes/Scene01_Intro.cs
+Unity/Packages/manifest.json
+Unity/Packages/packages-lock.json
